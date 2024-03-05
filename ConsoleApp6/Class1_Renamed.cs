@@ -5,7 +5,6 @@
 //add line
 using System.Collections.Generic;//Comment000
 using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace ConsoleApp6
