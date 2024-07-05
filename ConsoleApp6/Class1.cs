@@ -1,4 +1,4 @@
-﻿namespace ConsoleApp6
+﻿
 {
     using System;//1111222
     using System.Collections.Generic;
