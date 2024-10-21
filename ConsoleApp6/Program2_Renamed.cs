@@ -2,11 +2,13 @@
 
 namespace MyApp
 {
-    internal class Program
+    internal class Program2_Renamed
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!");
+
         }
     }
 }
