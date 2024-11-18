@@ -1,8 +1,8 @@
-﻿namespace ConsoleApp6
+﻿namespace ConsoleApp6//111
 {
     using System;
     using System.Collections.Generic;
-    using System.Linq;
+    using System.Linq;//2222
     using System.Text;
     using System.Threading.Tasks;
 
