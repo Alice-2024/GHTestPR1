@@ -8,5 +8,6 @@
 
     internal class Class1
     {
+        //aaaaaa
     }
 }
