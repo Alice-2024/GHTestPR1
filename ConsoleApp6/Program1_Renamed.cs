@@ -8,5 +8,12 @@ namespace MyApp
         {
             Console.WriteLine("Hello World!");//111
         }
+        public void Method1()
+        {
+        }
+        throw new Exception(); // This shouldn't even compile - does copilot detect it?
+        public void Method2()
+        {
+        }
     }
 }
