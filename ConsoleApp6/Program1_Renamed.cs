@@ -15,5 +15,19 @@ namespace MyApp
         public void Method2()
         {
         }
+        public void Method1()
+        {
+        }
+        throw new Exception(); // This shouldn't even compile - does copilot detect it?
+        public void Method2()
+        {
+        }
+        public void Method1()
+        {
+        }
+        throw new Exception(); // This shouldn't even compile - does copilot detect it?
+        public void Method2()
+        {
+        }
     }
 }
