@@ -1,0 +1,21 @@
+﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello, World!");//3333333333
+Console.WriteLine("Hello, World!");//44444555555
+Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello, World!");
