@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp6//aaaa
+namespace ConsoleApp6//aaaabbbbbbbbb
 {
     internal class Class2_Added
     {
