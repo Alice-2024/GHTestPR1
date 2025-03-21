@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp6 //aaaaabbb
+namespace ConsoleApp6 //aaaaabbbccccc
 {
     class Class6
     {
