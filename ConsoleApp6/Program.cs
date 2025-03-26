@@ -1,10 +1,8 @@
-﻿using System;
-
-namespace MyApp
+﻿namespace MyApp
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args)//aaaaaaaaaaaaaaaaaaa
         {
             Console.WriteLine("Hello World!");
         }
