@@ -1,12 +1,12 @@
-﻿namespace ConsoleApp6//111
+﻿namespace ConsoleApp6
 {
     using System;
     using System.Collections.Generic;
-    using System.Linq;//2222
+    using System.Linq;
     using System.Text;
     using System.Threading.Tasks;
 
-    internal class Class1
+    internal class Added_1
     {
     }
 }
