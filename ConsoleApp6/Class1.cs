@@ -7,7 +7,7 @@
     using System.Threading.Tasks;
 
     internal class Class1
-    {
-    }
+{
 }
-//11111112222333
+}
+//111111122223334444
