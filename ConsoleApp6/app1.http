@@ -1,1 +1,8 @@
 # For more info on HTTP files go to https://aka.ms/vs/httpfile
+
+# Updated the HTTP request to include a query parameter for better clarity
+GET https://example.com/api/resource?param=value
+Accept: application/json
+
+
+# Response
