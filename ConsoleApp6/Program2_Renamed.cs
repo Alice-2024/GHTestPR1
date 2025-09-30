@@ -5,10 +5,11 @@ namespace MyApp
     internal class Program2_Renamed
     {
         static void Main(string[] args)
-        {//1111
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello World!");
+        {
+            for (int i = 0; i < 4; i++)
+            {
+                Console.WriteLine("Hello World!");
+            }
         }
     }
 }
