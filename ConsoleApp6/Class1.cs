@@ -6,5 +6,9 @@ using System.Threading.Tasks;
 
 internal class Class1
 {
+    Parallel.For(0, 10, i =>
+    {
+        Console.WriteLine($"Processing item {i}");
+    });
 }
 //Test PR comments
