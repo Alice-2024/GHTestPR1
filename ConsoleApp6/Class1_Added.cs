@@ -8,5 +8,14 @@ namespace ConsoleApp6
 {
     internal class Class1_Added
     {
+        public Class1_Added()
+        {
+        }
+        
+        public Class1_Added(string name)
+        { 
+            Console.WriteLine(name);
+        }
+
     }
 }
