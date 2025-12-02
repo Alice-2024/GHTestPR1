@@ -8,7 +8,7 @@ internal class Class1
     {
         Parallel.For(0, 10, i =>
         {
-            Console.WriteLine($"Processing item {i}");
+            Console.WriteLine($"Item {i} processed.");
         });
     }
 }
