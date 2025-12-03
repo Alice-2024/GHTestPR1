@@ -5,10 +5,12 @@
 //add line
 using System.Collections.Generic;//Comment000
 using System.Linq;
-using System.Threading.Tasks;//aaaaaaa
+using System.Threading.Tasks;
 {
-    internal class Class1_Renamed //aaaaaaaaa
+    internal class Class1_Renamed
     {
+    public string Name { get; set; }
+    public string Description { get; set; }
+    public List<int> Values { get; set; }
     }
-}//test1016
-//111112222333
+}
