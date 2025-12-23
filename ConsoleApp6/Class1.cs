@@ -7,6 +7,7 @@
             Parallel.For(0, 10, i =>
             {
                 Console.WriteLine($"Item {i} processed.");
+                Console.WriteLine($"Item {i} completed.");
             });
         }
     }
