@@ -8,5 +8,10 @@
             Console.WriteLine("Executing test case 1: Verifying basic output functionality.");
             Console.WriteLine("test2");
         }
+        static void TestMethod()
+        {
+            // This is a placeholder for future test methods.
+            Console.WriteLine("Line14");
+        }
     }
 }
