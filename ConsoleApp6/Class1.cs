@@ -1,14 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Threading.Tasks;
-
-internal class Class1
+﻿namespace ConsoleApp6
 {
-    public static void Main()
+    public class Class1
     {
-        Parallel.For(0, 10, i =>
+        public static void Main()
         {
-            Console.WriteLine($"Item {i} processed.");
-        });
+            Parallel.For(0, 10, i =>
+            {
+                Console.WriteLine($"Item {i} processed.");
+            });
+        }
     }
 }
